@@ -1,4 +1,4 @@
-# awesome_robotics_bloggers
+# awesome_RobotLearning_bloggers
 awesome bloggers sharing contents about robot learning/embodied ai/VLA/RL
 
 # Zhihu 知乎
